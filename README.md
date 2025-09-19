@@ -51,3 +51,17 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook "ai healthcare assistant for pets and livestock with chatbox.ipynb"
 ```
+
+---
+
+## 📌 Future Improvements
+
+- Integrate live veterinary databases for accuracy
+
+- Build a web/mobile frontend
+
+- Add voice-based interaction 🎙️
+
+- Include multi-language support 🌍
+
+  
