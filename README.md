@@ -2,11 +2,11 @@
 
 An AI-powered healthcare assistant designed for pets and livestock. This project provides a chatbox interface that enables users to:
 
-Ask health-related queries about animals 🐶🐱🐄🐑
+- Ask health-related queries about animals 🐶🐱🐄🐑
 
-Receive AI-driven suggestions and guidance 💡
+- Receive AI-driven suggestions and guidance 💡
 
-Improve veterinary care accessibility 📈
+- Improve veterinary care accessibility 📈
 
 ---
 
