@@ -1,5 +1,15 @@
 # AI-healthcare-assistant-for-pets-and-livestock-with-chatbot
 
+## Architecture
+
+```mermaid
+flowchart LR
+  U[Pet or livestock owner] --> UI[Chat interface]
+  UI --> A[Healthcare assistant]
+  A --> K[Domain knowledge and guidance]
+  A --> R[Response and care recommendations]
+```
+
 An AI-powered healthcare assistant designed for pets and livestock. This project provides a chatbox interface that enables users to:
 
 - Ask health-related queries about animals 🐶🐱🐄🐑
