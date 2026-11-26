@@ -1,5 +1,9 @@
 # AI-healthcare-assistant-for-pets-and-livestock-with-chatbot
 
+## Project contribution
+
+Provides an approachable AI-chat interface for exploring pet and livestock health questions, helping users organise concerns before seeking appropriate professional care.
+
 ## Architecture
 
 ```mermaid
